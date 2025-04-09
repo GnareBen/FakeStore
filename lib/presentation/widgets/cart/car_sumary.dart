@@ -1,5 +1,5 @@
 import 'package:fake_store/data/models/cart_model.dart';
-import 'package:fake_store/presentation/widgets/cart_sumary_row.dart';
+import 'package:fake_store/presentation/widgets/cart/cart_sumary_row.dart';
 import 'package:flutter/material.dart';
 
 class CartSummary extends StatelessWidget {

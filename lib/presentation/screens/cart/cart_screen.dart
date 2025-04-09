@@ -1,6 +1,6 @@
 import 'package:fake_store/presentation/bloc/cart/cart_bloc.dart';
-import 'package:fake_store/presentation/widgets/car_sumary.dart';
-import 'package:fake_store/presentation/widgets/cart_item.dart';
+import 'package:fake_store/presentation/widgets/cart/car_sumary.dart';
+import 'package:fake_store/presentation/widgets/cart/cart_item.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
